@@ -1,0 +1,56 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-13.0-20230817-Spacewar-v9.8-gapps.zip",
+			"download": "https://sourceforge.net/projects/crdroidnothing/files/crDroidAndroid-13.0-20230817-Spacewar-v9.8-gapps.zip/download",
+			"timestamp": 1692261599,
+			"md5": "f0689a0465b36123565cdd8d666a4025",
+			"sha256": "02549a1cc6305d28ae5394161912a91d5a326022086a0c14ff48e0490e30dd00",
+			"size": 2322117623,
+			"version": "gapps",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-13.0-20230817-Spacewar-v9.8-microg.zip",
+			"download": "https://sourceforge.net/projects/crdroidnothing/files/crDroidAndroid-13.0-20230817-Spacewar-v9.8-microg.zip/download",
+			"timestamp": 1692264477,
+			"md5": "fce3bbb6e156dd248dccb90e1432fa33",
+			"sha256": "62317085c2246f18ab20a6a9f85fa81a5453bfa4df007e9801ccd13db5e0b176",
+			"size": 2164078057,
+			"version": "microg",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
