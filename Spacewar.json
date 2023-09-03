@@ -26,3 +26,32 @@
 		}
 	]
 }
+
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-13.0-20230903-Spacewar-v9.8-gapps.zip",
+			"download": "https://sourceforge.net/projects/bernies-builds/files/Spacewar/gapps/crDroidAndroid-13.0-20230903-Spacewar-v9.8-gapps.zip/download",
+			"timestamp": 1693747670,
+			"md5": "cad35e702606e4eb7ee36ff3d88601b3",
+			"sha256": "13d8fc9c7e1b0d2525d65fc69551ee543f133ca54037c2b867f06d8ebb20e743",
+			"size": 2297240725,
+			"version": "gapps",
+			"buildtype": "",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
