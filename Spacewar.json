@@ -4,12 +4,12 @@
 			"maintainer": "",
 			"oem": "",
 			"device": "",
-			"filename": "crDroidAndroid-13.0-20231003-Spacewar-v9.9-microg.zip",
-			"download": "https://sourceforge.net/projects/bernies-builds/files/Spacewar/microg/crDroidAndroid-13.0-20231003-Spacewar-v9.9-microg.zip/download",
-			"timestamp": 1696325807,
-			"md5": "012143016353a13debc4bb184b7b08c2",
-			"sha256": "64d7ab7c76959bb3a66db0097f144374db68a24e9a49042085c3a41343e4392c",
-			"size": 1288391698,
+			"filename": "crDroidAndroid-13.0-20231008-Spacewar-v9.9-microg.zip",
+			"download": "https://sourceforge.net/projects/bernies-builds/files/Spacewar/microg/crDroidAndroid-13.0-20231008-Spacewar-v9.9-microg.zip/download",
+			"timestamp": 1696777529,
+			"md5": "5491e3ff74e1984ab95fd7a513952551",
+			"sha256": "ce28abea8bb6a224a0c2584d7f4af8c8660988cf81e3387f005e6ad7436f3c71",
+			"size": 1140548927,
 			"version": "microg",
 			"buildtype": "microg",
 			"forum": "",
@@ -26,19 +26,18 @@
 		}
 	]
 }
-
 {
 	"response": [
 		{
 			"maintainer": "",
 			"oem": "",
 			"device": "",
-			"filename": "crDroidAndroid-13.0-20230903-Spacewar-v9.8-gapps.zip",
-			"download": "https://sourceforge.net/projects/bernies-builds/files/Spacewar/gapps/crDroidAndroid-13.0-20230903-Spacewar-v9.8-gapps.zip/download",
-			"timestamp": 1693747670,
-			"md5": "cad35e702606e4eb7ee36ff3d88601b3",
-			"sha256": "13d8fc9c7e1b0d2525d65fc69551ee543f133ca54037c2b867f06d8ebb20e743",
-			"size": 2297240725,
+			"filename": "crDroidAndroid-13.0-20231008-Spacewar-v9.9-gapps.zip",
+			"download": "https://sourceforge.net/projects/bernies-builds/files/Spacewar/gapps/crDroidAndroid-13.0-20231008-Spacewar-v9.9-gapps.zip/download",
+			"timestamp": 1696781629,
+			"md5": "d9ab65ca0f56eeb83e8c490d552f1b9d",
+			"sha256": "1dd2219d9e824c8800453b26f15b211a2bf68eeb956ec2e2b8624cdfcf96e1b6",
+			"size": 1177584728,
 			"version": "gapps",
 			"buildtype": "gapps",
 			"forum": "",
