@@ -5,13 +5,41 @@
 			"oem": "",
 			"device": "",
 			"filename": "crDroidAndroid-14.0-20231117-Spacewar-v10.0-BETA-microg.zip",
-			"download": "http://89.54.9.145/Spacewar/",
+			"download": "http://89.58.9.145/Spacewar/microg/crDroidAndroid-14.0-20231117-Spacewar-v10.0-BETA-microg.zip",
 			"timestamp": 1700241471,
 			"md5": "41b2ad80bc003947d3acdd402eb9714a",
 			"sha256": "53ced3128b63023f55dc7d07e5d7d059689470d0222dcaa0c9b8f6f2b2758bfe",
 			"size": 1461018123,
 			"version": "10.0",
 			"buildtype": "microg",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "crDroidAndroid-14.0-20231118-Spacewar-v10.0-BETA-gapps.zip",
+			"download": "http://89.58.9.145/Spacewar/gapps/crDroidAndroid-14.0-20231118-Spacewar-v10.0-BETA-gapps.zip",
+			"timestamp": 1700292716,
+			"md5": "bc94f8cd1d6681a38e3fa51eaae06d56",
+			"sha256": "7d2584dd1409165b7c40617375ceff9be5e494078d8bc23bba6e1c1162da9ebc",
+			"size": 1511352484,
+			"version": "10.0",
+			"buildtype": "gapps",
 			"forum": "",
 			"gapps": "",
 			"firmware": "",
