@@ -1,7 +1,7 @@
 {
 	"response": [
 		{
-			"maintainer": "",
+			"maintainer": "Bernie",
 			"oem": "",
 			"device": "",
 			"filename": "crDroidAndroid-14.0-20231121-Spacewar-v10.0-BETA-microg.zip",
@@ -19,25 +19,21 @@
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": "",
+			"telegram": "https://t.me/bernieschat",
 			"dt": "",
 			"common-dt": "",
 			"kernel": ""
-		}
-	]
-}
-{
-	"response": [
+		},
 		{
-			"maintainer": "",
+			"maintainer": "Bernie",
 			"oem": "",
 			"device": "",
-			"filename": "crDroidAndroid-14.0-20231121-Spacewar-v10.0-BETA-gapps.zip",
-			"download": "https://zelleb.de/Spacewar/gapps/crDroidAndroid-14.0-20231121-Spacewar-v10.0-BETA-gapps.zip",
-			"timestamp": 1700551846,
-			"md5": "3a3c0ef34b5fa11ce9e5daa127f34248",
-			"sha256": "b9a7d9dd6b12f054b28a6692a7a5b6dd47c262c469ee73fd606b97902e621da4",
-			"size": 1467428174,
+			"filename": "crDroidAndroid-14.0-20231125-Spacewar-v10.0-BETA-gapps.zip",
+			"download": "https://zelleb.de/Spacewar/gapps/crDroidAndroid-14.0-20231125-Spacewar-v10.0-BETA-gapps.zip",
+			"timestamp": 1700920239,
+			"md5": "5f6f3709d2799bde3d10c27f8fcf9bd6",
+			"sha256": "9115c2c0ea404b93bb60847f6a9f8f04b696a220fab671f746725f6216cb7fc0",
+			"size": 1610557090,
 			"version": "10.0",
 			"buildtype": "gapps",
 			"forum": "",
@@ -47,7 +43,7 @@
 			"bootloader": "",
 			"recovery": "",
 			"paypal": "",
-			"telegram": "",
+			"telegram": "https://t.me/bernieschat",
 			"dt": "",
 			"common-dt": "",
 			"kernel": ""
